@@ -16,6 +16,8 @@ class Solver:
         else:
             return "This equation has no roots"
 
+        print "Trying to add a line and commit"
+
 
 if __name__ == '__main__':
     solver = Solver()
