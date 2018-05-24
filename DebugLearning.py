@@ -4,7 +4,7 @@ import math
 class Solver:
 
     def demo(self, a, b, c):
-        print "Testing the Version Control System Options"
+        print "******* Testing the Version Control System Options **********"
         print "Adding a line from the Git HUb"
         d = b ** 2 - 4 * a * c
         if d > 0:
