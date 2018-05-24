@@ -18,6 +18,8 @@ class Solver:
 
         print "Trying to add a line and commit"
 
+        print "Revert FIrst Change"
+
 
 if __name__ == '__main__':
     solver = Solver()
